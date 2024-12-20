@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "title": "Wedding Invitation",
+    "description": "John and Jane's wedding ceremony.",
+    "date": "2024-12-25"
+  },
+  {
+    "id": "2",
+    "title": "Birthday Party",
+    "description": "Celebrate Mike's 30th birthday.",
+    "date": "2024-11-20"
+  }
+]
